@@ -1,8 +1,13 @@
-[![MasterHead](https://i.ibb.co/mGcnHDb/My-Banner.png)]
+
+<p align="center">
+  <img alt="coding" src="https://i.ibb.co/mGcnHDb/My-Banner.png">
+</p>
 <h1 align="center">Hi 👋, I'm Pranay Bhandekar</h1>
 <h3 align="center">"I'm a passionate Full Stack Developer with expertise in the MERN stack, and I'm also an enthusiast in Data Structures and Algorithms (DSA). I enjoy building scalable applications and continuously enhancing my problem-solving skills."</h3>
 
-<img align="center" alt="coding" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<p align="center">
+  <img alt="coding" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay8841&label=Profile%20views&color=0e75b6&style=flat" alt="pranay8841" /> </p>
 
